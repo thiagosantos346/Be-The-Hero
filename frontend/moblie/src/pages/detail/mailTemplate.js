@@ -1,0 +1,1 @@
+export default  (ong, caso, valor) =>(`olá ${ong}, estou entrando em contato, pois gostaria  de no caso : "${caso}" "${valor}"'` );
