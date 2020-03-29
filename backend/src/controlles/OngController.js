@@ -14,8 +14,6 @@ module.exports = {
             city,
             uf
         });
-    
-        console.log({id, name, email, whatsapp, city, uf});
         
         return response.json({id, name, email, whatsapp, city, uf});
     },
